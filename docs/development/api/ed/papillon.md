@@ -5,7 +5,7 @@
 ## Installation
 
 !!! npm "Node Package Manager"
-     Le module est disponible sur [npmjs.com :octicons-link-external-24:](https://www.npmjs.com/package/papillon-ed-core){target='_blank'} sous le nom de `papillon-ed-core`.
+     Le module est disponible sur [npmjs.com :octicons-link-external-24:](https://www.npmjs.com/package/@papillonapp/ed-core){target='_blank'} sous le nom de `papillon-ed-core`.
 
 Le répo du module est disponible sur [Github :octicons-link-external-24:](https://github.com/PapillonApp/Papillon-ED-Core/){target='_blank'}.
 
