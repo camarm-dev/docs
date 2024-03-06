@@ -7,7 +7,7 @@
 
 ## Installation des dépendances
 ### Homebrew
-[Homebrew](https://brew.sh/) est nécessaire pour installer le reste des outils nécessaires.
+[Homebrew](https://brew.sh/) est nécessaire pour installer le reste des dépendances.
 
 Vous pouvez l'installer simplement en indiquant cette commande dans un terminal macOS :
 
